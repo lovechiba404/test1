@@ -7,7 +7,7 @@ int main(void){
   x=0;
   y=0;
   i=0;
-  for(i=0;i<30;i++){
+  for(i=0;i<10;i++){
     x=x+i;
     y=x+y*i;
   }
